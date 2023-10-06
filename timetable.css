@@ -1,0 +1,17 @@
+th, td{
+    border: 1px solid black;
+}
+
+table {
+    font-size: small;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+  }
+
+  .vertical-text {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    padding: 10px 25px;
+    font-size: x-large;
+  }
